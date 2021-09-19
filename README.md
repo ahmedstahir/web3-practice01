@@ -24,6 +24,12 @@ Calling functions of the smart contract deployed in previous step
 <b>Step #6:</b>\
 Read events from the ERC20 UNI token contract deployed on Ethereum Mainnet
 
+<b>Step #7:</b>\
+To inspect the content within a block, the following three functions are implemented:
+- `getLatestBlockNumber` to display number of the latest block
+- `getLatestBlock` displays content of the latest block
+- `getLastBlocks` shows the block number and hash of the latest x blocks (where x is a number provided as a parameter to the function)
+
 <hr />
 
 ###### This [tutorial](https://www.dappuniversity.com/articles/web3-js-intro) is being used as reference for this exercise.
