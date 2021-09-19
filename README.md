@@ -18,6 +18,9 @@ Deployed a simple contract, on Ropsten Testnet, that has a `uint256` state varia
 
 Address of the deployed contract is `0x5Bdc2d267058F861a609da09fB81a075395B520C`
 
+<b>Step #5:</b>\
+Calling functions of the smart contract deployed in previous step
+
 <hr />
 
 ###### This [tutorial](https://www.dappuniversity.com/articles/web3-js-intro) is being used as reference for this exercise.
