@@ -30,6 +30,13 @@ To inspect the content within a block, the following three functions are impleme
 - `getLatestBlock` displays content of the latest block
 - `getLastBlocks` shows the block number and hash of the latest x blocks (where x is a number provided as a parameter to the function)
 
+<b>Step #8:</b>\
+The following Web3 Utilities had been explored:
+- `getAverageGasPrice` gets the average gas price currently for the network
+- `generateHash` displays `sha3` and `keccak256` hashes of the provided string
+- `generateRandomHex` generates a random hexadecimal number of the provided bytes
+- `useUnderscoreJsLibrary` uses the `contains` function of the Underscore.js library
+
 <hr />
 
 ###### This [tutorial](https://www.dappuniversity.com/articles/web3-js-intro) is being used as reference for this exercise.
